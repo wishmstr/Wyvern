@@ -1,0 +1,458 @@
+Name	Set	ImageFile	Type	Gold	Number	Rarity	Text	Lore
+Wyvern	02Kingdom	K001	Dragon	0	1	Common-3	STRENGTH: 4 FLYING	
+Amphiptere	02Kingdom	K002	Dragon	0	2	Common-1	STRENGTH: 0 FLYING SCOUT	
+Lindwurm	02Kingdom	K003	Dragon	1	3	Uncommon-2	STRENGTH: 0 Loses one battle without dying.	The Lindwurm has seven skins making it hard to kill.
+Guivre	02Kingdom	K004	Dragon	0	4	Common-1	STRENGTH: 2	
+Jormungandr	02Kingdom	K005	Dragon	0	5	Rare-1	STRENGTH: 7	The Jormungandr is a serpent that wraps himself around the world.
+Tarasque	02Kingdom	K006	Dragon	0	6	Uncommon-2	STRENGTH: 3	Tarasque can only be killed by Holy Water.
+Vittra	02Kingdom	K007	Dragon	1	7	Uncommon-2	STRENGTH: 3 Flying dragons lose 2 strength for the rest of a battle that Vittra is part of.	Vittra is a dragon of India that creates storms instead of fire.
+Fafnir	02Kingdom	K008	Dragon	0	8	Uncommon-2	STRENGTH: 2 Dwarven Armies cannot be used by either side in a battle that Fafnir is part of.	This Germanic Dragon was once a Dwarf.  Upon dying his blood grants both knowledge and invulnerability.
+Pakawjak	02Kingdom	K009	Dragon	0	9	Uncommon-2	STRENGTH: 2 Fire Breathing cannot be used by either side in a battle that Pakawjak is part of.	Pakawjak is an Arctic Dragon that breathes frost rather than fire.
+Moghur	02Kingdom	K010	Dragon	2	10	Uncommon-2	STRENGTH: 0 SCOUT If first card attacked is terrain, Moghur may then attack a second card one card away from the first card.	Moghur is a Dragon that can kill with a look.
+Tiamat	02Kingdom	K011	Dragon	0	11	Uncommon-2	STRENGTH: 3 FLYING	Tiamat is one of the few female dragons.
+Colchis	02Kingdom	K012	Dragon	0	12	Common-1	STRENGTH: 1	Colchis is the Dragon that guards the Golden Fleece.
+Gryphon	02Kingdom	K013	Dragon	0	13	Uncommon-2	STRENGTH: 1 FLYING	
+Leviathan	02Kingdom	K014	Dragon	0	14	Uncommon-2	STRENGTH: 5	Leviathan is one of the biggest dragons in the world.  He is a fire breathing sea serpent.
+Basilisk	02Kingdom	K015	Dragon	0	15	Rare-1	STRENGTH: 3 Kills himself and one other dragon in battle.  No battle action cards are played in a battle that Basilisk is part of, and there is no winner or loser.	
+Typhon	02Kingdom	K016	Dragon	0	16	Common-1	STRENGTH: 0 SCOUT	
+Echidna	02Kingdom	K017	Dragon	1	17	Uncommon-2	STRENGTH: 3 If Echidna wins a battle you may turn any face up dragon face down.	Echidna dwells in the 'secret parts' of the earth underground.
+Chimera	02Kingdom	K018	Dragon	1	18	Uncommon-3	STRENGTH: 0 SCOUT Chimera attacks at 1 strength from face down.	
+Azhi Dahaka	02Kingdom	K019	Dragon	0	19	Uncommon-2	STRENGTH: 2 FLYING	Azhi Dahaka breathes fire, poison and hypnotic gas.
+Mushussu	02Kingdom	K020	Dragon	0	20	Uncommon-2	STRENGTH: 1 2 strength when attacking from face down.  0 strength when attacking from face up.	
+Lung Wong	02Kingdom	K021	Dragon	0	21	Uncommon-2	STRENGTH: 2 Lung Wong defends at 3 strength from face up and attacks at 1 strength from face up.	
+Kakutan	02Kingdom	K022	Dragon	0	22	Uncommon-2	STRENGTH: 3 Kakutan defends at 4 strength from face down and attacks at 2 strength from face down.	Instead of flying, Kakutan runs like the wind.
+Scylla	02Kingdom	K023	Dragon	0	23	Uncommon-2	STRENGTH: 4 Scylla defends at 5 strength from face down and attacks at 3 strength from face up.	
+Vouivre	02Kingdom	K024	Dragon	1	24	Rare-1	STRENGTH: 2 Vouivre may get help from a dragon one card away in this battle.  Flyers may help Vouivre from anywhere in your battlefield.	Vouivre has a red carbuncle for an eye which when removed leaves him blind.
+Thuhan	02Kingdom	K025	Dragon	1	25	Rare-1	STRENGTH: 1 Gains +1 strength with each won battle.	
+Amphisbena	02Kingdom	K026	Dragon	0	26	Rare-1	STRENGTH: 6	Amphisbena loves the cold weather climates.
+Phrygian	02Kingdom	K027	Dragon	1	27	Rare-1	STRENGTH: 3 Phrygian may get help from a dragon one card away in this battle.  Flyers may help Phrygian from anywhere in your battlefield.	
+Cynoprosopi	02Kingdom	K028	Dragon	1	28	Rare-1	STRENGTH: 4 Cynoprosopi may get help from a dragon one card away in this battle.  Flyers may help Cynoprosopi from anywhere in your battlefield.	Cynoprosopi lives in the Sahara Desert.
+Draco	02Kingdom	K029	Dragon	2	29	Rare-1	STRENGTH: 3 Once Draco attacks he must continue to attack during that same turn until he dies or discovers terrain.	Draco has a tail that can kill with one swipe.
+Shapeshifter	02Kingdom	K030	Dragon	0	30	Rare-1	STRENGTH: 3 Shapeshifter takes on the base strength of one dragon attacking it or defending against it.	
+Moat	02Kingdom	K031	Terrain	2	31	Uncommon-1	STRENGTH MODIFIER: -2 Does not affect flying dragons.	
+Vines	02Kingdom	K032	Terrain	2	32	Uncommon-1	No battle action cards can be played in a battle this dragon is part of.  Vines affect flying dragons only.	
+Coral Reef	02Kingdom	K033	Terrain	2	33	Common-1	STRENGTH MODIFIER: -1	
+Swamp	02Kingdom	K034	Terrain	2	34	Common-1	STRENGTH MODIFIER: -1	
+Frozen Lake	02Kingdom	K035	Terrain	0	35	Uncommon-1	Kills dragons of 4 or more strength.  Has no effect on any other dragons.	Big Dragons are on thin ice.
+Pit	02Kingdom	K036	Terrain	0	36	Uncommon-1	Kills dragons of 3 or less strength.	
+Cliff	02Kingdom	K037	Terrain	1	37	Uncommon-1	STRENGTH MODIFIER: -2	
+Crevice	02Kingdom	K038	Terrain	2	38	Uncommon-1	No battle action cards can be played in a battle this dragon is part of.  The Crevice does not affect flying dragons.	
+Wall	02Kingdom	K039	Terrain	1	39	Uncommon-1	Dragon cannot get any help from other dragons during attack and defense for the rest of the game.	
+Desert	02Kingdom	K040	Terrain	2	40	Common-1	STRENGTH MODIFIER: -1	
+Cave	02Kingdom	K041	Terrain	1	41	Common-1	Dragon can only attack face down cards for the rest of the game.  If there are no face down cards to attack he attacks a face up card he could normally attack at -1 strength.	
+Clouds	02Kingdom	K042	Terrain	2	42	Uncommon-1	STRENGTH MODIFIER: -2 This card affects flyers only.	
+Forest	02Kingdom	K043	Terrain	2	43	Common-1	STRENGTH MODIFIER: -1	
+Swamp Hole	02Kingdom	K044	Terrain	1	44	Uncommon-1	Kills dragons of 2 or less strength.	
+Tunnel	02Kingdom	K045	Terrain	2	45	Uncommon-1	Dragon can only attack cards in a direct line across from the dragon's card.  If there are no cards there to attack he may attack any card he could normally attack at -1 strength.	
+Quicksand	02Kingdom	K046	Terrain	0	46	Rare-1	Quicksand causes dragon to lose one strength immediately and one strength during each of dragon owner's draw phases.	
+River	02Kingdom	K047	Terrain	2	47	Common-1	STRENGTH MODIFIER: -1	
+Ocean	02Kingdom	K048	Terrain	2	48	Common-1	STRENGTH MODIFIER: -1	
+Lake	02Kingdom	K049	Terrain	2	49	Common-1	STRENGTH MODIFIER: -1	
+Mansion in the Sky	02Kingdom	K050	Treasure	1	50	Uncommon-1	All face up flying dragons in this row are in the Mansion in the Sky.  Non-flying dragons lose two strength for the rest of a battle with a dragon in the Mansion.	
+Golden Fleece	02Kingdom	K051	Treasure	3	51	Rare-2	Dragons in this row gain +2 strength when attacking.	
+Golden Apples	02Kingdom	K052	Treasure	0	52	Common-1	Dragons in this row can't be killed by terrain.	
+Pearl	02Kingdom	K053	Treasure	0	53	Common-1	When a dragon in this row wins a battle, draw one card from your treasure horde draw pile.	
+Jewels	02Kingdom	K054	Treasure	2	54	Common-1	Dragons in this row gain +1 strength when defending.	
+Dragon Egg	02Kingdom	K055	Treasure	0	55	Rare-1	Action: Pay 3 gold pieces to hatch the Dragon Egg.  It becomes a two strength dragon.  Replace a card in your battlefield with Egg.  Egg starts face up.	
+Sword	02Kingdom	K056	Treasure	2	56	Common-1	Dragons in this row gain +1 strength when attacking.	
+Gold	02Kingdom	K057	Treasure	0	57	Common-1	When a dragon in this row wins a battle you get a gold piece.	
+Princess Libya	02Kingdom	K058	Treasure	0	58	Common-1	St. George must rescue Princess Libya instead of removing any other treasure in your battlefield.	
+Oriental Princess	02Kingdom	K059	Treasure	0	59	Rare-1	Whoever wins a battle gets two gold pieces until Princess is removed from play.	
+Maiden in Distress	02Kingdom	K060	Treasure	0	60	Common-1	Dragons in this row can't be killed by dragon slayers.  Any dragon slayer can remove Maiden in Distress from game.	
+Firebreathing	02Kingdom	K061	Battle Action	0	61	Common-2	STRENGTH MODIFIER: +1	
+Flood	02Kingdom	K062	Battle Action	0	62	Common-1	No Dwarven Armies allowed in this battle.	
+Hailstorm	02Kingdom	K063	Battle Action	1	63	Common-2	All flying dragons lose two strength for the rest of this battle.	
+Tsunami	02Kingdom	K064	Action	0	64	Common-1	For every one of your dragons you turn face up during this action phase, draw one card from your treasure horde draw pile.  Be sure to pay for any dragons being turned up for the first time.	
+High Winds	02Kingdom	K065	Action	4	65	Rare-2	All face up flying dragons are killed.	
+Help	02Kingdom	K066	Battle Action	1	66	Common-2	You may bring one dragon one card away into this battle.  Flying dragons can come from anywhere in your battlefield.	
+Frost Breathing	02Kingdom	K067	Battle Action	0	67	Common-1	No Fire Breathing can be played during this battle.	
+Hero	02Kingdom	K068	Action	2	68	Rare-2	One of your dragons can attack twice during your battle phase this turn.	
+Poison Breathing	02Kingdom	K069	Battle Action	0	69	Common-2	The dragon that wins this battle loses 1 strength.  This takes effect after battle for rest of game.	
+Sacrifice	02Kingdom	K070	Battle Action	0	70	Common-2	The winner of this battle must pay two gold pieces to the loser.	
+Knowledge	02Kingdom	K071	Action	0	71	Common-1	Look at a player's hand.	
+Magical Sword	02Kingdom	K072	Battle Action	1	72	Common-2	STRENGTH MODIFIER: +2	
+Seaweed	02Kingdom	K073	Action	1	73	Common-2	Seaweed is played on a face up dragon and gives that dragon a -1 strength modifer for this turn.	
+Whirlpool	02Kingdom	K074	Action	1	74	Rare-2	Draw 2 cards from your treasure horde draw pile.	
+Medea's Spell	02Kingdom	K075	Battle Action	2	75	Rare-2	A dragon of your choice is now 0 base strength for the rest of this battle.	Medea is able to put dragons to sleep with her spell.
+Fireball	02Kingdom	K076	Battle Action	3	76	Common-2	STRENGTH MODIFIER: +4	
+Fire Bolt	02Kingdom	K077	Battle Action	2	77	Common-2	STRENGTH MODIFIER: +3	
+Poison Chalice	02Kingdom	K078	Battle Action	3	78	Rare-2	The side with the lowest strength wins this battle.	
+Strangle Hold	02Kingdom	K079	Action	1	79	Rare-2	Player of your choice must discard 2 cards from his hand.	
+Avalanche	02Kingdom	K080	Action	0	80	Common-2	All face up dragons are turned face down.	
+Earthquake	02Kingdom	K081	Action	0	81	Common-1	All players must discard 1 card from their hands.	
+Golden Apple	02Kingdom	K082	Battle Action	1	82	Common-2	The dragon you play the Golden Apple on survives this battle even if he loses.	
+Armor	02Kingdom	K083	Battle Reaction	0	83	Common-2	Counters any battle action card with the words STRENGTH MODIFIER on the card.	
+Night	02Kingdom	K084	Battle Action	0	84	Common-2	Cancels current battle.  Dragons go back to their positions face up.	
+St. George	02Kingdom	K085	Dragon Slayer Action	0	85	Common-2	St. George removes any one treasure from the game.	
+Sigurd	02Kingdom	K086	Dragon Slayer Action	1	86	Common-2	Sigurd kills any dragon of 2 or less strength.	
+Sir Lancelot	02Kingdom	K087	Dragon Slayer Action	2	87	Common-2	Sir Lancelot kills any dragon of 3 or less strength.	
+Kiss of Le Succube	02Kingdom	K088	Reaction	2	88	Rare-2	Kiss of Le Succube is played in response to the play of a dragon slayer.  The dragon slayer is discarded with no effect and you can destroy any card on the table.	
+Marina	02Kingdom	K089	Reaction	0	89	Common-2	Marina counters the play of a dragon slayer.	The Russian Sorceress Marina likes to seduce brave dragon slayers and change them into harmless magpies, pigs or oxen.
+Jason	02Kingdom	K090	Dragon Slayer Action	3	90	Rare-2	Jason kills any dragon.	
+Shan	02Kingdom	K091	Dragon	1	91	Uncommon-2	STRENGTH: 1 FLYING If Shan Dragon loses a battle you draw one card from your treasure horde draw pile.	The Shan Dragon breathes mist and illusions.
+Gani	02Kingdom	K092	Dragon	1	92	Uncommon-2	STRENGTH: 3 If Gani is face up no treasure can be removed from this row by opponent.	Gani is a Persian Dragon that guards treasure.
+Hydra	02Kingdom	K093	Dragon	0	93	Uncommon-2	STRENGTH: 4 After each battle the Hydra loses 1 strength.  You may pay one gold piece to grow another head and increase the Hydra's strength by one.  You may do this once a turn.	
+Grendel	02Kingdom	K094	Dragon	1	94	Rare-1	STRENGTH: 0 SCOUT Grendel steals any gold on terrain discovered by Grendel.	
+Celestial	02Kingdom	K095	Dragon	0	95	Uncommon-2	STRENGTH: 5 FLYING	The Celestrial Dragon is the Dragon of Emperors and rules all Chinese Dragons.
+Mokelembembe	02Kingdom	K096	Dragon	1	96	Uncommon-2	STRENGTH: 2 If Mokelembembe loses a battle you draw a card from your treasure horde draw pile.	Mokelembembe is a vegetarian dragon that lives in a river cave.
+Naga	02Kingdom	K097	Dragon	1	97	Uncommon-2	STRENGTH: 3 Naga attacks at 6 strength from face down and 0 strength from face up.	Naga is a serpent of India that can appear with a human head.
+Gargouille	02Kingdom	K098	Dragon	1	98	Uncommon-2	STRENGTH: 2 Pay one gold piece to increase strength by two for this battle.  You can only do this once per battle.	Gargouille is a French Dragon that produces and controls Gargoyles.
+Rahah	02Kingdom	K099	Dragon	0	99	Uncommon-2	STRENGTH: 1 Rahah attacks at 2 strength from face down and 0 strength from face up.	Rahah is a Biblical Dragon that can only be destroyed by White magic.
+Kioh-lung	02Kingdom	K100	Dragon	1	100	Uncommon-2	STRENGTH: 0 SCOUT If Kioh-lung loses a battle, draw one card from your treasure horde draw pile.	
+Kulkulcan	02Kingdom	K101	Dragon	1	101	Uncommon-2	STRENGTH: 3 SUPER FLYER Kulkulcan can attack any card.	
+Lambton Worm	02Kingdom	K102	Dragon	0	102	Uncommon-2	STRENGTH: 1 Pay one gold to bring Lambton Worm from your dragon lair discard pile to a vacant position in your battlefield face down.  You can only do this once.	Lambton Worm is a serpent that can regenerate.
+Gandarewa	02Kingdom	K103	Dragon	0	103	Uncommon-2	STRENGTH: 3 Gandarewa attacks at 4 strength from face down and 0 strength from face up.	Gandarewa is a sea Dragon that is master of the water and its creatures.
+Ajatar	02Kingdom	K104	Dragon	1	104	Rare-1	STRENGTH: 4 Ajatar attacks at 8 strength from face down and 0 strength from face up.	Ajatar can cause disease and curses.
+Pan Lung	02Kingdom	K105	Dragon	1	105	Uncommon-2	STRENGTH: 0 FLYING SCOUT Flying dragons lose one strength after any battle with Pan Lung.	Pan Lung is a cloud Dragon that can cause storms and create fiery water.
+Mountains	02Kingdom	K106	Terrain	1	106	Uncommon-1	STRENGTH MODIFIER: -2	
+Snowdrifts	02Kingdom	K107	Terrain	0	107	Uncommon-1	A dragon caught in a Snowdrift must pay one gold piece to attack.	
+Forest Fire	02Kingdom	K108	Terrain	0	108	Uncommon-1	Kills any dragon that discovers it.  Replace Forest Fire then give it to opponent who can now destroy any card in play.	
+Brush Fire	02Kingdom	K109	Terrain	2	109	Uncommon-1	This dragon can't use the effects of any treasure for the rest of the game.	
+Underwater Cave	02Kingdom	K110	Terrain	2	110	Uncommon-1	Dragon can only attack face up cards for the rest of the game.  If there are no face up cards he then attacks a face down card at -1 strength.	
+Cauldron	02Kingdom	K111	Treasure	1	111	Common-1	Action: On each of your turns you may turn a dragon in this row face down.	
+Fountain of Youth	02Kingdom	K112	Treasure	1	112	Common-1	Battle Action: One dragon in this row can survive a lost battle.  As soon as  this happens you discard the Fountain of Youth.	
+Silver Chalice	02Kingdom	K113	Treasure	0	113	Rare-1	Battle Action: A dragon in this row gains +1 Strength when attacking for each gold piece paid.	
+Magic Potion	02Kingdom	K114	Treasure	2	114	Common-1	Battle Action: One dragon in this row can help any other dragon in this row in a battle.	
+Magic Wand	02Kingdom	K115	Treasure	1	115	Common-1	Action: Any dragon in this row can become a flyer or a non-flyer for the rest of the turn.	
+Pick a Treasure	02Kingdom	K116	Treasure	2	116	Common-1	Action: Discard this treasure from your battlefield and put a treasure from your opponent's battlefield in its place.  Be sure to return the treasure to its owner after game.	
+Shipwreck	02Kingdom	K117	Treasure	0	117	Common-1	All terrain in this row gets a -1 strength modifier in addition to any on the card.	
+Secret Treasure	02Kingdom	K118	Treasure	0	118	Common-1	Action: Draw one card from your treasure horde draw pile for each gold piece you pay.	
+Treasure Room	02Kingdom	K119	Treasure	0	119	Common-1	When any dragon in this row loses a battle you get a gold piece.	
+Magic Shield	02Kingdom	K120	Treasure	0	120	Rare-1	Battle Action: A dragon in this row gains +1 Strength when defending for each gold piece paid.	
+Snow Storm	02Kingdom	K121	Action	4	121	Rare-2	A player of your choice misses next turn.	
+Twister	02Kingdom	K122	Action	0	122	Common-1	All players may rearrange all cards in their battlefield.	
+Volcanic Eruption	02Kingdom	K123	Action	2	123	Common-1	Bring any card back from your treasure horde discard pile to your hand.	
+Meteor Shower	02Kingdom	K124	Action	0	124	Common-2	All players discard their hands and draw 5 cards from their treasure horde draw piles.	
+Heatwave	02Kingdom	K125	Action	0	125	Common-2	All dragons who are face up lose 1 strength for this turn.	
+Magical Healing	02Kingdom	K126	Action	0	126	Common-2	One dragon of your choice is healed back to full strength.	
+Power Switch	02Kingdom	K127	Battle Action	2	127	Rare-2	The two dragons who started this battle switch base strength numbers until the end of the battle.	
+Magnetic Field	02Kingdom	K128	Reaction	2	128	Rare-2	The Magnetic Field can be played at any time to counter the play of any kind of action card.	
+Dwarven Army	02Kingdom	K129	Battle Action	0	129	Common-2	STRENGTH MODIFIER: +1	
+Crystal Ball	02Kingdom	K130	Action	0	130	Common-2	You may look at the next 5 cards in any player's treasure horde draw pile.  You may then reshuffle the draw pile or rearrange the 5 cards in any order you wish.	
+Possession Spell	02Kingdom	K131	Battle Action	1	131	Common-2	You may possess the base strength of any face up dragon in any battlefield and add it to a dragon in this battle.  The dragon possessed cannot be one that is currently in the battle.  The dragon possessed now has a base strength of 0 for the rest of this battle.	
+Beowulf	02Kingdom	K132	Dragon Slayer Action	0	132	Common-2	Beowulf kills any dragon of 0 or less strength.	
+Battle Chaos	02Kingdom	K133	Battle Action	0	133	Common-2	All players may bring as many dragons as they want into this battle from anywhere in their battlefields.	
+Doomsday	02Kingdom	K134	Action	5	134	Rare-2	All face up dragons are killed.  All players draw 2 cards from their treasure horde draw pile for each of their dragons killed and replace each dragon with cards placed face down from their dragon lair draw pile.	
+Turn the Tables	02Kingdom	K135	Action	1	135	Rare-2	You must play Turn the Tables during your opponent's turn.  You decide which card of yours gets attacked this turn.  Opponent must attack if possible.	
+Wyvern Shadow	02Kingdom	K136	Action	0	136	Rare-2	Play on face up Wyvern.  Adds +2 strength to Wyvern for rest of game.	
+Vampire	02Kingdom	K137	Dragon	2	137	Rare-1	STRENGTH: 1 When Vampire is attacking one strength is taken away from each defending dragon and added to Vampire.  These strength changes are permanent.	
+Loki	02Kingdom	K138	Dragon	1	138	Uncommon-2	STRENGTH: 2 Get one gold piece from the gold mine for each won battle.	Loki is a Dragon from Icelandic legend.
+Mo-o	02Kingdom	K139	Dragon	1	139	Uncommon-2	STRENGTH: 0 SCOUT Get one gold piece from the gold mine each time Mo-o discovers a terrain.	Mo-o is one of many Hawaiian Dragons.
+Geates	02Kingdom	K140	Dragon	1	140	Uncommon-2	STRENGTH: 2 FLYING When Geates wins a battle, one treasure in row of losing dragon is discarded.  You decide which one.	Geates is the Dragon slayed by Beowulf in Anglo-Saxon myth.
+Dragonel	02Kingdom	K141	Dragon	1	141	Uncommon-2	STRENGTH: 2 When Dragonel wins a battle you get one card from your treasure horde draw pile.	Dragonel is a young Dragon.
+Tatzlwurm	02Kingdom	K142	Dragon	0	142	Uncommon-2	STRENGTH: 2 SUBTERRANEAN Giant Ants cannot be played by either side in a battle Tatzlwurm is part of.	
+Pi-Hsi	02Kingdom	K143	Dragon	1	143	Uncommon-2	STRENGTH: 2 Pi-Hsi gains +2 strength in current battle if a treasure in this row is discarded.	Pi-Hsi is Dragon Ruler of the Rivers.
+Chen Lung	02Kingdom	K144	Dragon	1	144	Uncommon-2	STRENGTH: 3 When Chen Lung is face up you cannot be forced to discard any cards from your hand.	Chen-Lung is a Chinese guardian Dragon.
+Ryu	02Kingdom	K145	Dragon	1	145	Uncommon-2	STRENGTH: 3 FLYING Ryu gains one strength for each treasure played in this row when he is face up.  Ryu loses this strength if he is turned face down.	
+Bait	02Kingdom	K146	Dragon	0	146	Uncommon-2	STRENGTH: 2 Archers cannot be used by either side in a battle that Bait is part of.	Bait is a four-winged serpent from ancient Egyptian mythology.
+Cecrops	02Kingdom	K147	Dragon	0	147	Uncommon-1	STRENGTH: 2 FLYING No Ravens can be played by either side in a battle the Cecrops is part of.	
+Giant	02Kingdom	K148	Dragon	0	148	Uncommon-1	STRENGTH: 5 Giant costs 4 gold pieces when turned face up and loses one strength in your draw phase each turn his is face up.  Giant goes back to  5 strength if he is turned face down.	Giant is a serpent-footed Dragon of Roman mythology.
+Abraxus	02Kingdom	K149	Dragon	1	149	Uncommon-1	STRENGTH: 0 You may discard Abraxus from your battlefield during a battle to give any other Dragon +3.  If Abraxus is face down when you do this, then pay the 1 gold cost.	Abraxus is the ruler of magical influence.
+Ea	02Kingdom	K150	Dragon	0	150	Uncommon-1	STRENGTH: 0 Pay gold in battle to raise Ea's strength by one for each gold piece paid.	
+Osiris	02Kingdom	K151	Dragon	0	151	Uncommon-2	STRENGTH: 4 SUBTERRANEAN	Osiris is a Leviathan of the Deep.
+Kane-kua-ana	02Kingdom	K152	Dragon	1	152	Uncommon-1	STRENGTH: 1 You may discard Kane-kua-ana from your battlefield instead of a dragon that just lost a battle.  If Kane-kua-ana is face down when this happens then pay the 2 gold cost.	Kane-kua-ana is the Hawaiian Dragon that brought the oysters to Ewa Lagoon.
+Apep	02Kingdom	K153	Dragon	0	153	Uncommon-1	STRENGTH: 3 SUBTERRANEAN	Apep is an Egyptian Dragon that symbolizes darkness and evil.
+Indra	02Kingdom	K154	Dragon	1	154	Rare-1	STRENGTH: 2 FLYING Indra can help any dragon in a battle.	Indra is an Indian Dragon known as the Drought Dragon.
+Yellow	02Kingdom	K155	Dragon	2	155	Rare-1	STRENGTH: 4 Immune to dragon slayers.  You get one gold from gold mine each of your draw phases Yellow Dragon is face up.	Chinese Dragon that rules over the last month of summer.
+Bride's Serpent	02Kingdom	K156	Dragon	1	156	Uncommon-1	STRENGTH: 3 When Bride's Serpent wins a battle loser must discard one card from hand at random.	The Bride's Serpent is a Scottish Dragon.
+Blue	02Kingdom	K157	Dragon	2	157	Rare-1	STRENGTH: 5 SUPER FLYER Immune to dragon slayers.  Can attack any card.  Draw an extra card in each of your draw phases that Blue is face up.	Chinese Dragon that rules spring.
+White	02Kingdom	K158	Dragon	2	158	Rare-1	STRENGTH: 4 FLYING Immune to dragon slayers.  When White is face up opponent can't play treasure cards.	Chinese Dragon that rules autumn.
+Black	02Kingdom	K159	Dragon	2	159	Rare-1	STRENGTH: 4 SUBTERRANEAN Immune to dragon slayers.  Opponent loses one gold to the gold mine on each of his draw phases that Black is face up.	Chinese Dragon that rules winter.
+Red	02Kingdom	K160	Dragon	2	160	Rare-1	STRENGTH: 6 Immune to dragon slayers.  Add +1 to all battle action strength modifiers when played on Red.	Chinese Dragon that rules over summer.
+Mount Chung	02Kingdom	K161	Dragon	1	161	Uncommon-1	STRENGTH: 3 Pay two gold pieces to cancel any battle that Mount Chung is part of.	When the Mount Chung Dragon opens its eyes it's day and when he closes them it's night.
+Ananta	02Kingdom	K162	Dragon	1	162	Uncommon-1	STRENGTH: 3 Subterranean dragons lose two strength for rest of battle that Ananta is part of.	Ananta is an Indian serpent with nine heads.
+Delphyne	02Kingdom	K163	Dragon	1	163	Uncommon-1	STRENGTH: 0 FLYING SCOUT Get one card from your treasure horde draw pile each time Delphyne discovers a terrain.	Delphyne is a she-Dragon from Greek mythology.
+Python	02Kingdom	K164	Dragon	0	164	Uncommon-2	STRENGTH: 2 SUBTERRANEAN	
+Nidhoggr	02Kingdom	K165	Dragon	0	165	Uncommon-1	STRENGTH: 1 SUBTERRANEAN	Nidhoggr is the first Nordic Dragon.  He is known for gnawing at the root of the Universal Tree.
+Laidly Worm	02Kingdom	K166	Dragon	1	166	Uncommon-1	STRENGTH: 1 When Laidly Worm loses a battle the winning player must discard one card at random from his hand.	The Laidly Worm used to be a beautiful girl who was turned into a Dragon.
+Sito	02Kingdom	K167	Dragon	1	167	Uncommon-1	STRENGTH: 4 When Sito wins a battle you get one gold piece from the gold mine.	Sito is the Devine Serpent of Egypt.
+Lotan	02Kingdom	K168	Dragon	1	168	Uncommon-1	STRENGTH: 3 No battle action cards can be used by either side in battle with Lotan.	Lotan is a Primeval Serpent with seven heads from Cananite mythology.
+Midgard Serpent	02Kingdom	K169	Dragon	0	169	Uncommon-1	STRENGTH: 0 SCOUT SUBTERRANEAN	The Nordic Serpent of Midgard.
+Behomoth	02Kingdom	K170	Dragon	0	170	Rare-1	STRENGTH: 7 FLYING	Behomoth with fight Leviathan at the end of the world.
+Aaron's Rod	02Kingdom	K171	Treasure	1	171	Rare-2	Battle Action: A dragon in this row gains +1 Strength for each card you discard from your hand.	When Aaron cast t he rod before the Pharoah it became a serpent.
+Dragon Mother	02Kingdom	K172	Treasure	0	172	Rare-1	When Dragon Mother is in play the top card of all treasure horde draw piles is always face up.	The Dragon Mother can tell future events.
+Dragon Bones	02Kingdom	K173	Treasure	0	173	Rare-1	Action: Pay one gold piece to remove as many cards as you want from one dragon in this row.	Dragon Bones are used for medicinal purposes.
+Dragon Skin	02Kingdom	K174	Treasure	0	174	Rare-1	When replacing any card in your battlefield draw two cards from your dragon lair draw pile.  Discard the card you don't use.	Dragon Skin glows in the dark.
+Tablets of Destiny	02Kingdom	K175	Treasure	0	175	Rare-1	During each of your draw phases you may pay one gold piece and call out a card.  Opponent must discard one of that card if he has it.	The Tablets of Destiny were discovered by the Babylonian Marduk.
+Dragon Ashes	02Kingdom	K176	Treasure	0	176	Rare-1	During each of your draw phases you may pay one gold piece and discard the top 3 cards from your opponent's treasure horde draw pile.	
+Dracontias	02Kingdom	K177	Treasure	1	177	Rare-1	Dragons in this row cost one less gold when turned face up.	Dracontias is a gem found in the head of a Dragon.  It must be removed while the Dragon is living to be valuable.
+Vishnu	02Kingdom	K178	Action	4	178	Rare-2	A face up dragon of your choice must be turned face down.  This dragon will have to be paid for again the next time it is turned face up.	
+Indra's Spell	02Kingdom	K179	Reaction	0	179	Rare-2	Counters any weather related action card (Heatwave, High Winds, Flood, etc.) Can be used during a battle.	Indra is the Indian Weather God who can abruptly change the weather.
+Apollo	02Kingdom	K180	Battle Action	1	180	Rare-2	Draw 2 cards from your treasure horde draw pile.	
+Cadmus	02Kingdom	K181	Dragon Slayer Action	2	181	Common-2	Cadmus kills any flying dragon.	Cadmus is a Greek Dragon Slayer.
+Thor	02Kingdom	K182	Dragon Slayer Action	2	182	Common-2	Thor kills any subterranean dragon.	
+Poisonous Air	02Kingdom	K183	Action	0	183	Common-2	All players lose one gold piece for each face up dragon in their battlefields.	
+Pirendeus Tree	02Kingdom	K184	Action	2	184	Common-2	The card you play the Pirendeus Tree on cannot be attacked by a dragon this turn.	Dragons always avoid the Pirendeus Tree.
+Martha of Bethany	02Kingdom	K185	Action	1	185	Common-1	Play on a face up dragon.  This dragon is immune to dragon slayers for as long as Martha is on the dragon.  If this dragon turns face down, Martha is discarded.	Dragon Slayerrs have to eat too.
+Marduk	02Kingdom	K186	Action	1	186	Common-2	No battle action cards can be played this turn.	Marduk is the son of Tiamat.
+Ra	02Kingdom	K187	Battle Reaction	0	187	Common-2	This battle cannot be canceled.	Ra is the Sun God.
+Seth	02Kingdom	K188	Dragon Slayer Action	2	188	Rare-3	Seth attacks an opponent's face down card.  Turn the attacked card face up.  If it's a terrain card it is discarded.  If it's a dragon it stays face up and is not paid for.	
+Zeus	02Kingdom	K189	Action	0	189	Common-2	No scouts can attack this turn.	
+Hercules	02Kingdom	K190	Action	1	190	Common-1	Play on a face up dragon that is immune to dragon slayers.  The dragon is no longer immune to dragon slayers as long as Hercules is on the dragon.  Discard Hercules if dragon is turned face down.	
+Pitch	02Kingdom	K191	Battle Action	0	191	Rare-2	The dragon that Pitch is played on loses 2 strength for each fire battle action card played on him instead of gaining strength from the fire cards.  (Ex: Firebreathing, Fireball, etc.)	Pitch is very flammable and will explode when fire gets near it.
+Sabra	02Kingdom	K192	Reaction	0	192	Rare-2	Sabra is played in response to the play of St. George.  You get two gold from the gold mine and you get to remove any treasure in play.	Sabra is a princess who married St. George.
+King Arthur	02Kingdom	K193	Action	2	193	Rare-2	Any dragon slayer played this turn cannot be countered with a reaction card.	
+Illuyankus	02Kingdom	K194	Dragon	1	194	Uncommon-1	STRENGTH: 3 FLYING When Illuyankus is one of the two dragons starting a battle no help is allowed by either side.	Illuyankus is a Dragon from Hittite mythology.
+Valley	02Kingdom	K195	Action	1	195	Rare-2	Play this on a face up dragon.  This dragon cannot get or give help for this turn.	
+Stream	02Kingdom	K196	Terrain	1	196	Uncommon-1	Dragon's owner must pay one gold piece to the gold mine each of his draw phases that the Stream is on the dragon.	
+Gully	02Kingdom	K197	Action	0	197	Common-2	No help is allowed by either side in any battle this turn.	
+Castle	02Kingdom	K198	Battle Action	1	198	Rare-2	STRENGTH MODIFIER: +3 You can only play the Castle when you are defending in a battle.	
+City	02Kingdom	K199	Action	1	199	Common-2	A dragon of your choice can be turned face down.	
+Village	02Kingdom	K200	Action	0	200	Common-2	Remove any one card from a dragon.	
+Town	02Kingdom	K201	Action	1	201	Rare-2	You may replace two dragon or terrain cards in your battlefield this turn and still do a dragon slayer action or a battle phase.	
+Abbey	02Kingdom	K202	Terrain	2	202	Uncommon-1	This dragon cannot survive a lost battle no matter what cards are played, are in play, or what it says on the dragon.	
+Trap	02Kingdom	K203	Terrain	0	203	Uncommon-1	This dragon now belongs to you.  It stays on the Trap in your battlefield.  Pay two gold each of your draw phases to keep dragon.  If trap is removed, or you don't pay, dragon goes back to original owner's battlefield and Trap is discarded.	
+Hurricane	02Kingdom	K204	Terrain	0	204	Uncommon-1	Kills any flying dragon.	
+Island	02Kingdom	K205	Terrain	0	205	Uncommon-1	Any flying dragon now belongs to you.  Dragon stays on island in your battlefield.  If Island is removed dragon goes back to original owner's battlefield.	
+Ruins	02Kingdom	K206	Terrain	1	206	Uncommon-1	If this dragon is turned face down it must be paid for again when it is turned face up.	
+Subterranean River	02Kingdom	K207	Action	0	207	Common-1	This dragon is now a subterranean dragon and can attack any card as long as the Subterranean River is on him.  Subterranean River is discarded if dragon is turned face down.	
+Subterranean Gold Mine	02Kingdom	K208	Treasure	0	208	Rare-1	All your subterranean dragons gain +1 Strength when attacking.	
+Subterranean Lair	02Kingdom	K209	Terrain	0	209	Uncommon-1	Any subterranean dragon is now yours.  The dragon stays on the subterranean lair in your battlefield.  If Lair is removed dragon returns to original owner's battlefield.	
+City in the Sky	02Kingdom	K210	Treasure	1	210	Rare-1	All your flying dragons gain +1 strength when attacking.	
+Subterranean Tunnels	02Kingdom	K211	Treasure	0	211	Common-2	All your subterranean dragons can now attack any card in the battlefield.	
+Dwarven Gold Mine	02Kingdom	K212	Treasure	0	212	Rare-1	Place this card next to an existing treasure position.  This makes a new position for treasure.  You may play any treasure on the Dwarven Gold Mine.  If the Dwarven Gold Mine is removed so is any treasure on it.	
+Dragon Man	02Kingdom	K213	Action	2	213	Rare-2	If two dragons of the same name are face up on the battlefield, you decide which one is immediately replaced from the player's dragon lair draw pile.	
+Great Library of Ninevah	02Kingdom	K214	Treasure	0	214	Rare-1	You cannot be forced to discard any cards from your hand.	
+Hall of Chivalry	02Kingdom	K215	Action	2	215	Rare-2	Put Hall of Chivalry on a face up dragon.  This dragon must attack this turn.  If the dragon can't legally attack then it must be replaced.  Play during opponent's turn.	
+Windsock Banner	02Kingdom	K216	Treasure	1	216	Rare-1	All your Archers gain +1 and cannot be stopped by any battle action or reaction cards.	The Windsock Banner is used to help archerrs know which direction the wind is blowing.  It also scares the enemy.
+Subterranean Treasure	02Kingdom	K217	Treasure	2	217	Rare-1	Battle Action: All your subterranean dragons can help each other when attacking.	
+The Gambler	02Kingdom	K218	Action	0	218	Rare-2	Guess whether you will discover a terrain or dragon when you attack a face down card this turn.  If you are right get two gold from the gold mine.  If you are wrong pay two gold to the gold mine.	
+Feast	02Kingdom	K219	Treasure	2	219	Rare-1	All dragons of 4 or more base strength lose two strength for as long as the feast is in play.	Big Dragons tend to eat too much.
+Growth Spurt	02Kingdom	K220	Treasure	1	220	Rare-1	All dragons of 2 or less base strength gain +2 strength as long as Growth Spurt is in play.	
+Treasure Thief	02Kingdom	K221	Action	2	221	Common-1	Treasure Thief removes all treasures from play.	
+Underground Avalanche	02Kingdom	K222	Terrain	2	222	Uncommon-1	STRENGTH MODIFIER: -2 Applies only to subterranean dragons.	
+Place Your Bets	02Kingdom	K223	Battle Action	0	223	Rare-2	You are betting one of your gold pieces that you will win this battle.  Opponent must see your bet of one gold piece or concede the battle.  Winner gets both gold pieces.	
+All Bets Are Off	02Kingdom	K224	Battle Action	0	224	Rare-2	No gold can be gained or lost as a result of this battle.  This includes gold from treasures, action cards, and dragon abilities.	
+Gold Thief	02Kingdom	K225	Action	0	225	Common-2	Take one gold piece from any player's gold pile.	
+Catch a Thief	02Kingdom	K226	Reaction	0	226	Common-1	Counters the play of Gold Thief card and gives you one gold piece from opponent's gold pile.  Also counters the play of a Treasure Thief.	
+Gold Shortage	02Kingdom	K227	Action	0	227	Common-2	All players take two gold pieces from their gold piles and put them in the gold mine.	
+Gold Find	02Kingdom	K228	Action	0	228	Common-2	All players take two gold pieces from the gold mine.	
+Steal Strength	02Kingdom	K229	Battle Reaction	1	229	Rare-2	Play in response to a battle action card with the words STRENGTH MODIFIER on it.  You can place the battle action card on a dragon of your choice in this battle.	
+Archers	02Kingdom	K230	Battle Action	0	230	Rare-2	STRENGTH MODIFIER: +2 Archers can only be used when defending.  Cannot be played on flying or subterranean dragons.	
+Giant Ants	02Kingdom	K231	Battle Action	0	231	Rare-2	STRENGTH MODIFIER: +2 Giant Ants can only be used by subterranean dragons.	
+Ravens	02Kingdom	K232	Battle Action	0	232	Rare-2	STRENGTH MODIFIER: +2 Ravens can only be used by flying dragons.	
+Fog	02Kingdom	K233	Battle Action	0	233	Rare-2	No Archers can be used in this battle.	
+Giant Anteater	02Kingdom	K234	Battle Action	0	234	Rare-2	No Giant Ants can be used in this battle.	
+Hawks	02Kingdom	K235	Battle Action	0	235	Rare-2	No Ravens can be used in this battle.	
+Frozen Assets	02Kingdom	K236	Action	3	236	Rare-2	Player of your choice cannot spend any more gold on action or battle action cards this turn.	
+Lightning	02Kingdom	K237	Action	0	237	Common-1	This dragon is now a flying dragon as long as Lightning is on the dragon.  Lightning is discarded if the dragon is turned face down.	
+Help from Beyond	02Kingdom	K238	Battle Action	1	238	Rare-2	Both players add top card from their dragon lair draw pile to battle.  Dragons must be paid for and their strength added.  If terrain affects opponent's dragon, terrain owner gets any gold on terrain card.  All cards drawn are discarded after battle.	
+Invisibility	02Kingdom	K239	Action	0	239	Rare-2	All cards starting battle face down stay face down and all battle action cards are played face down.  After all cards are played they are revealed in the order played.  All battle action cards must be paid for even if a terrain card was discovered.	
+Ambrosia	02Kingdom	K240	Action	0	240	Common	You may play as many treasures as you want during your action phases this turn.	Ambrosia is the food of the Gods.
+Pan	02Kingdom	K241	Action	0	241	Uncommon	Opponent must show you his hand and lose one gold for each dragon slayer action card in his hand that he doesn't discard.	Pan fills men with fears.
+Adonis	02Kingdom	K242	Action	2	242	Common	Place Adonis on a face up scout.  This dragon is no longer a scout, and loses all special abilities as long as Adonis is on the dragon.  Discard Adonis if the dragon is turned face down.	Adonis was a handsome young man who was killed by a wild boar.
+Minotaur	02Kingdom	K243	Battle Action	1	243	Common	STRENGTH MODIFIER: +4 Can only be played on dragons with a base strength of 2 or less.	
+Medusa	02Kingdom	K244	Action	0	244	Uncommon	A player of your choice cannot move any cards in the movement phase of his next turn.	If you look at Medusa you turn to stone.
+Chronos	02Kingdom	K245	Treasure	2	245	Uncommon	You go first in all action and battle action phases as long as Chronos is in play.	
+Atlantis	02Kingdom	K246	Treasure	2	246	Uncommon	Draw Phase: You may draw card from your dragon lair draw pile and place it under Atlantis.  Battle Phase: If you discard from your battlefield you may replace with a card from Atlantis.  If Atlantis is removed from play, all cards under it are discarded.	
+Avalon	02Kingdom	K247	Action	4	247	Uncommon	Place Avalon face up in a vacant battlefield position.  Immediately place the top card from your dragon lair draw pile face down on top of Avalon.  You may not voluntarily replace the card that is on Avalon.  When the card is destroyed, Avalon is discarded.	
+Banshee	02Kingdom	K248	Battle Action	0	248	Common	The winner of this battle loses one gold and gets no draw phase next turn.	The Banshee is a spirit that can be heard wailing at the death of a family member to whom it is attached.
+Camelot	02Kingdom	K249	Terrain	2	249	Common	Dragon can not be turned face down while in Camelot.	Camelot is the home of King Arthur's Court.
+Cyclops	02Kingdom	K250	Battle Action	1	250	Common	All dragons helping one side of this battle run away and are no longer in this battle.	
+Dwarf King	02Kingdom	K251	Treasure	1	251	Common	You do not have to show your hand to any player and all actions that require this are countered.	
+Fortuna	02Kingdom	K252	Battle Action	0	252	Uncommon	Any strength modifier played during this battle by any player cannot be stopped by a battle action or reaction card.	Fortuna is the Roman Goddess of good luck.
+Dragon On Strike	02Kingdom	K253	Action	1	253	Uncommon	Play on a face up dragon.  Dragon's owner must immediately pay two gold to the gold mine or replace the dragon with the top card from his dragon lair draw pile.	
+Bribery	02Kingdom	K254	Action	1	254	Uncommon	Play Bribery on a face up dragon.  This dragon may not attack during this turn.	
+Sir Galahad	02Kingdom	K255	Dragon Slayer Action Action	2	255	Common	Kills any dragon of 4 or more strength.	Galahad is destined to find the Holy Grail.
+Gram	02Kingdom	K256	Battle Action	1	256	Uncommon	The dragon that wins this battle loses 2 strength.  This takes effect after battle for the rest of the game.	Sigurd's sword was forged for him out of fragments of his father's sword.
+Hypnos	02Kingdom	K257	Battle Action	3	257	Uncommon	You can force any face up dragon to help on either side of this battle.  Dragon can't already be in the battle.	Hypnos is the god of sleep.
+Ida	02Kingdom	K258	Terrain	2	258	Common	Dragon loses all special abilities.	Ida is the mountain in Asai Minor on which Paris gave his fatal judgement, and the highest mountain in Crete where Zeus was reared.
+Labyrinth	02Kingdom	K259	Terrain	2	259	Common	The dragon in the Labyrinth can not be replaced by choice.  The dragon can only be replaced if the owner can't legally do anything else.	Daedalus built the Labyrinth for Minos, King of Crete, as a prison for the Minotaur.
+Merlin	02Kingdom	K260	Action	0	260	Uncommon	Move any card on a face up dragon in either battlefield to any other face up dragon.	Merlin is a magician in King Arthur's Court.
+Midas	02Kingdom	K261	Action	0	261	Uncommon	Discard any dragon from your battlefield and get gold from the gold mine equal to the discarded dragon's strength plus gold symbols.  The dragon is not replaced.	Midas is a King of Phrygia with the famous 'Midas Touch.'
+Sirens	02Kingdom	K262	Action	1	262	Common	Play during opponent's turn.  Opponent must attack with a face down dragon if possible.  If he can't attack with a face down dragon, he must replace a card in his battle phase.	Sirens live on an island near Scylla and Charybis and lure men to their death with melodious song.
+Tor	02Kingdom	K263	Battle Action	0	263	Uncommon	Treasure of your choice has no effect during this battle.	Tor is a Knight of King Arthur's Round Table.
+Valhalla	02Kingdom	K264	Treasure	0	264	Uncommon	Any dragon slayer played by any player costs zero gold to play as long as Valhalla is in play.	Valhalla is the great feasting hall of the castle Gladsheim in Asgard.
+Wandering Rocks	02Kingdom	K265	Terrain	1	265	Common	STRENGTH MODIFIER: -1 Wandering Rocks owner can move Wandering Rocks to another face up dragon as an action.	Wandering Rocks were at the entrance to the Hellespont and clashed together when a ship tried to pass between them.
+Cricket	02Kingdom	K266	Battle Action	0	266	Common	STRENGTH MODIFIER: +3 Can only be played on a dragon with a base strength of 2 or less.	
+Celestial Charger	02Kingdom	K267	Battle Action	2	267	Common	STRENGTH MODIFIER: +5 Can only be played on a dragon with a base strength of 2 or less.	
+Panther	02Kingdom	K268	Battle Action	4	268	Rare	STRENGTH MODIFIER: +5	
+Puk	02Kingdom	K269	Reaction	0	269	Common	Counters any attempt to destroy or remove a treasure from your battlefield.  When used against a Pick a Treasure attempt the Pick a Treasure is discarded.	Puk is a Baltic Dragon who brings Treasures to the household he is protecting.
+Roc	02Kingdom	K270	Battle Action	0	270	Uncommon	The dragon that wins this battle loses one strength for each gold piece you pay to the gold mine.	Roc is an Arabian storm bird who feeds elephants to his young.
+Golden Dragon	02Kingdom	K271	Dragon	2	271	Common	STRENGTH: 2 When Golden Dragon wins a battle, you get gold equal to the base strength of the dragon(s) defeated.	The Golden Dragon is the Chinese Dragon King.
+Tatsu	02Kingdom	K272	Dragon	1	272	Common	STRENGTH: 0 SCOUT When Tatsu loses a battle you can put a -1 strength counter on any face up dragon.	In Japanese myth, Tatsu is the sign in the Zodiac we know as Leo.
+Ri-Riu	02Kingdom	K273	Dragon	1	273	Common	STRENGTH: 0 SCOUT SUPER FLYER Ri-Riu can attack any card.	Ri-Riu can see more than a mile.
+Nergal	02Kingdom	K274	Dragon	1	274	Common	STRENGTH: 2 When Nergal wins a battle, you can put a +1 strength counter on any face up dragon.	Nergal is a Babylonian Dragon.
+Earthly Naga	02Kingdom	K275	Dragon	2	275	Uncommon	STRENGTH: 0 Earthly Naga gains +1 strength for each terrain card on him.  Ignore all other effects of terrain card except gold symbols.	Earthly Naga is the Indian Dragon that clears out rivers.
+Dragon of Exe Valley	02Kingdom	K276	Dragon	2	276	Uncommon	STRENGTH: 1 FLYING When attacking, Dragon of Exe Valley's strength is the number of treasures in play on both sides.	This is an English Dragon who flies across Exe Valley every night to guard Treasure Hordes at Cadbury Castle and Dolbury Hill.
+Green Dragon	02Kingdom	K277	Dragon	1	277	Common	STRENGTH: 1 When Green Dragon loses a battle winning dragon loses any special abilities for the rest of the game.	Green Dragon is a Chinese Dragon in Feng-shui myth.
+Ambrosia	03Phoenix	p01	Action	0	1	Common	You may play as many treasures as you want during your action phases this turn.	Ambrosia is the food of the Gods.
+Nectar	03Phoenix	p02	Treasure	4	2	Uncommon	Draw one extra card during each of your draw phases.	Nectar is the drink of the Gods.
+Tortoise	03Phoenix	p03	Hidden Action	0	3	Common	Place face down under one of your face down dragons.  The dragon gains +1 strength when defending as long as the Tortoise is on the dragon.  Can't use on flyers or subterranean dragons.	In Chinese mythology, the Tortoise could not be killed by Dragons and could not kill Dragons.
+Crocodile	03Phoenix	p04	Dragon	1	4	Common	STRENGTH: 2 If Crocodile loses battle, winning dragon cannot be turned face down for rest of game.	In many cultures Crocodiles are treated as Dragons.
+Elephants	03Phoenix	p05	Hidden Action	0	5	Uncommon	Place  face down and sideways under an opponent's face down card.  If it is under a dragon, the dragon loses 1 strength when attacking as long as Elephants are on the dragon.  Discard the Elephants if under a terrain card.	Elephants crush Dragons as they fall.
+Pan	03Phoenix	p06	Action	0	6	Uncommon	Opponent must show you his hand and lose one gold for each dragon slayer action card in his hand that he doesn't discard.	Pan fills men with fears.
+Achilles	03Phoenix	p07	Hidden Action	0	7	Uncommon	Place face down and sideways under an opponent's face down card.  If it is under a dragon, that dragon loses 1 strength when defending as long as Achilles is on the dragon.  Discard Achilles if under a terrain card.	Achilles was a Greek hero who was killed when Paris shot him in the heel with a poisoned arrow.
+Adonis	03Phoenix	p08	Action	2	8	Common	Place Adonis on a face up scout.  This dragon is no longer a scout, and loses all special abilities as long as Adonis is on the dragon.  Discard Adonis if the dragon is turned face down.	Adonis was a handsome young man who was killed by a wild boar.
+Agravain	03Phoenix	p09	Hidden Action	0	9	Uncommon	Place face down and sideways under an opponent's face down card.  If it is under a dragon, that dragon may not be turned face down as long as Agravain is on the dragon.  Discard Agravain if under a terrain card.	A lesser Knight of the Roudn Table who did not like Lancelot.
+Ajax	03Phoenix	p10	Reaction	0	10	Common	Ajax counters the play of any intercept action.	Ajax is a giant Greek warrior who fought in the Trojan war.
+Amazons	03Phoenix	p11	Hidden Action	0	11	Uncommon	Place face down and sideways under an opponent's face down card.  If it is under terrain, the Amazons add +2 strength modifier to that terrain.  Discard Amazons if under a dragon.	
+Hippolyte	03Phoenix	p12	Hidden Action	0	12	Uncommon	Place face down and sideways under an opponent's face down card.  If it is under terrain, the terrain owner gets two gold less from this terrain.  Discard Hippolyte if under a dragon.	
+Minotaur	03Phoenix	p13	Battle Action	1	13	Common	STRENGTH MODIFIER: +4 Can only be played on dragons with a base strength of 2 or less.	
+Medusa	03Phoenix	p14	Action	0	14	Uncommon	A player of your choice cannot move any cards in the movement phase of his next turn.	If you look at Medusa you turn to stone.
+Echo	03Phoenix	p15	Hidden Action	0	15	Common	Place face down under one of your terrains.  If terrain applies to a dragon attacking it, you get two gold pieces in addition to any pieces already on the terrain card.	Echo is forbidden to speak anything but the last syllable of the previous speaker.
+Chronos	03Phoenix	p16	Treasure	2	16	Uncommon	You go first in all action and battle phases as long as Chronos is in play.	
+Poseidon	03Phoenix	p17	Hidden Action	0	17	Common	Place face down under one of your terrain cards.  Poseidon adds another -2 strength modifier to the terrain.	Poseidon is the god of the sea.
+Atlantis	03Phoenix	p18	Treasure	0	18	Uncommon	Draw Phase: You may draw card from your dragon lair draw pile and place it under Atlantis.  Battle Phase: If you discard from your battlefield you may replace with a card from Atlantis.  If Atlantis is removed from play, all cards under it are discarded.	
+Atlas	03Phoenix	p19	Battle Reaction	0	19	Uncommon	Battle action or intercept action just played is countered unless owner pays two gold to the gold mine.	
+Avalon	03Phoenix	p20	Action	4	20	Uncommon	Place Avalon face up in a vacant battlefield position.  Immediately place the top card from your dragon lair draw pile face down on top of Avalon.  You may not voluntarily replace the card that is on Avalon.  When the card is destroyed, Avalon is discarded.	
+Banshee	03Phoenix	p21	Battle Action	0	21	Common	The winner of this battle loses one gold and gets no draw phase next turn.	The Banshee is a spirit that can be heard wailing at the death of a family member to whom it is attached.
+Bifrost	03Phoenix	p22	Treasure	1	22	Uncommon	All flying dragons in this row are now super flyers and can attack any card in the battlefield.	The Bifrost is the Rainbow Bridge from Norse mythology that spans the air from Earth to Asgard, the home of the Gods.
+Calypso	03Phoenix	p23	Reaction	0	23	Uncommon	Action, reaction, or dragon slayer action is countered unless owner pays two gold to the goldmine.	
+Camelot	03Phoenix	p24	Terrain	2	24	Common	Dragon can not be turned face down while in Camelot.	Camelot is the home of King Arthur's Court.
+Centaurs	03Phoenix	p25	Action	1	25	Common	Opponent pays one gold to the gold mine for each treasure he has in play.  Any treasure not paid for is removed from play.	
+Blinding Light	03Phoenix	p26	Hidden Action	0	26	Common	Place face down under one of your terrain cards.  If a scout destroys the terrain card, the scout loses the ability to scout and any other special ability on the card.	
+Cyclops	03Phoenix	p27	Battle Action	1	27	Common	All dragons helping one side of this battle run away and are no longer in this battle.	
+Dwarf King	03Phoenix	p28	Treasure	1	28	Common	You do not have to show your hand to any player and all actions that require this are countered.	
+Fortuna	03Phoenix	p29	Battle Action	0	29	Uncommon	Any strength modifier played during this battle by any player cannot be stopped by a battle action or reaction card.	Fortuna is the Roman Goddess of good luck.
+Inflation	03Phoenix	p30	Treasure	0	30	Uncommon	All dragons cost one more gold as long as Inflation is in play.	
+Dragon On Strike	03Phoenix	p31	Action	1	31	Uncommon	Play on a face up dragon.  Dragon's owner must immediately pay two gold to the gold mine or replace the dragon with the top card from his dragon lair draw pile.	
+Bribery	03Phoenix	p32	Action	1	32	Uncommon	Play Bribery on a face up dragon.  This dragon may not attack during this turn.	
+Price Hike	03Phoenix	p33	Treasure	0	33	Uncommon	All cards from players' hands cost one more gold while price hike is in play.	
+Sale	03Phoenix	p34	Treasure	0	34	Uncommon	All cards played from players' hands cost one less gold as long as sale is in play.	
+Frey	03Phoenix	p35	Treasure	0	35	Uncommon	In each player's draw phase, the player draws until he has eight cards in his hand.	Frey is the Norse God of fruitfulness and the protector of marriage.
+Sir Galahad	03Phoenix	p36	Dragon Slayer Action	2	36	Common	Kills any dragon of 4 or more strength.	Galahad is destined to find the Holy Grail.
+Gram	03Phoenix	p37	Battle Action	1	37	Uncommon	The dragon that wins this battle loses 2 strength.  This takes effect after battle for the rest of the game.	Sigurd's sword was forged for him out of fragments of his father's sword.
+Harpies	03Phoenix	p38	Hidden Action	0	38	Common	Play Harpies face down under one of your face down flying dragons.  Dragon gains +1 strength when attacking as long as Harpies are on the dragon.	
+Hypnos	03Phoenix	p39	Battle Action	3	39	Uncommon	You can force any face up dragon to help on either side of this battle.  Dragon can't already be in the battle.	Hypnos is the god of sleep.
+Ida	03Phoenix	p40	Terrain	2	40	Common	Dragon loses all special abilities.	Ida is the mountain in Asia Minor on which Paris gave his fatal judgement, and the highest mountain in Crete where Zeus was reared.
+Ishtar	03Phoenix	p41	Action	3	41	Uncommon	You may immediately replace a card in your battlefield with a card of your choice from your dragon lair discard pile.	When her husband Tammuz died, Ishtar descended into the underworld to bring him back.
+Labyrinth	03Phoenix	p42	Terrain	2	42	Common	The Dragon in the Labyrinth can not be replaced by choice.  The dragon can only be replaced if the owner can't legally do anything else.	Daedalus built the Labyrinth for Minos, King of Crete, as a prison for the Minotaur.
+Merlin	03Phoenix	p43	Action	0	43	Uncommon	Move any card on a face up dragon in either battlefield to any other face up dragon.	Merlin is a magician in King Arthur's Court.
+Midas	03Phoenix	p44	Action	0	44	Uncommon	Discard any dragon from your battlefield and get gold from the gold mine equal to the discarded dragon's strength plus gold symbols.  The dragon is not replaced.	Midas is a King of Phrygia with the famouse 'Midas Touch.'
+Pandora	03Phoenix	p45	Action	2	45	Uncommon	Switch hands with your opponent for the remainder of this turn.	All the ills of the world are contained in Pandora's box.
+Prometheus	03Phoenix	p46	Battle Action	0	46	Uncommon	Opponent must show you his hand and lose one gold for each battle action card in his hand that he doesn't discard.	Prometheus is forever chained and suffering, but remains confident that his cause will triumph.
+Sirens	03Phoenix	p47	Action	1	47	Common	Play during opponent's turn.  Opponent must attack with a face down dragon if possible.  If he can't attack with a face down dragon, he must replace a card in his battle phase.	Sirens live on an island near Sclla and Charybis and lure men to their death with melodious song.
+Tor	03Phoenix	p48	Battle Action	0	48	Uncommon	Treasure of your choice has no effect during this battle.	Tor is a Knight of King Arthur's Round Table.
+Trolls	03Phoenix	p49	Hidden Action	0	49	Common	Place face down under one of your face down subterranean dragons.  The dragon gains +1 strength when attacking as long as the Trolls are on him.	Trolls burst if sunlight touches them.
+Valhalla	03Phoenix	p50	Treasure	0	50	Uncommon	Any dragon slayer played by any player costs zero gold to play as long as Valhalla is in play.	Valhalla is the great feasting hall of the castle Gladsheim in Asgard.
+Wandering Rocks	03Phoenix	p51	Terrain	1	51	Common	STRENGTH MODIFIER: -1 Wandering Rocks' owner can move Wandering Rocks to another face up dragon as an action.	Wandering Rocks were at the entrance to the Hellespont and clashed together when a ship tried to pass between them.
+Trojan Horse	03Phoenix	p52	Treasure	2	52	Rare	Action: Place a battle action card from hand under Trojan Horse.  Battle Action: Play all cards from Trojan Horse at not gold cost.  If Trojan Horse is removed from play, all cards under it are discarded.	
+Ape	03Phoenix	p53	Intercept Action	0	53	Uncommon	STRENGTH: 2 INTERCEPTOR Attacker must kill Ape before reaching intended target.  Ape counts as dragon in attacked row.  Discard Ape after battle.	The ancient Egyptians venerate the Ape.
+Badger	03Phoenix	p54	Battle Action	2	54	Uncommon	Trade hands with your opponent until the end of this battle.	In Chinese myth, the badger is full of mischief and playfulness.  The badger is a shapeshifter in Japanese myth.
+Cricket	03Phoenix	p55	Battle Action	0	55	Common	STRENGTH MODIFIER: +3 Can only be played on a dragon with a base strength of 2 or less.	
+Doves	03Phoenix	p56	Battle Action	0	56	Common	If the battle is a tie, it is a draw and both dragons survive.	
+Firefly	03Phoenix	p57	Intercept Action	3	57	Uncommon	You can redirect attacking dragon to any card which the dragon can legally attack in your battlefield.	In Japanese myth, spirits can take the form of a firefly.
+Golden Grasshopper	03Phoenix	p58	Battle Action	0	58	Uncommon	Whenever this battle is tied, the defender is ahead.	In ancient Greece, the Golden Grasshopper stood for nobility.
+Celestial Charger	03Phoenix	p59	Battle Action	2	59	Common	STRENGTH MODIFIER: +5 Can only be played on a dragon with base strength of 2 or less.	
+The Pathfinder	03Phoenix	p60	Action	3	60	Rare	Play on a face up dragon.  This dragon is a scout for this turn.  All other dragon abilities remain the same.	
+Red Kangaroo	03Phoenix	p61	Reaction	2	61	Uncommon	Intercept action just played is countered and you can destroy any card on the table.	The Red Kangaroo, or Kolakola, is an Australian Aboriginal myth.
+Lynx	03Phoenix	p62	Intercept Action	3	62	Uncommon	STRENGTH: 5 INTERCEPTOR Attacker must kill Lynx before reaching intended target.  Lynx counts as dragon in attacked row.  Discard Lynx after battle.	
+Mermaid	03Phoenix	p63	Action	1	63	Uncommon	Remove all cards that are attached to other cards in both battlefields.  This includes cards that are attached to treasures.	
+Opinicus	03Phoenix	p64	Intercept Action	1	64	Uncommon	STRENGTH: 3 INTERCEPTOR Attacker must kill Opinicus before reaching intended target.  Opinicus counts as dragon in attacked row.  Discard Opinicus after battle.	
+Owl	03Phoenix	p65	Action	4	65	Uncommon	Replace one card in your battlefield with any card from your dragon lair draw pile.  Place the new card face down.  Shuffle your dragon lair draw pile after using the Owl.	The owl provides a dual symbol of wisdom and darkness.
+Panther	03Phoenix	p66	Battle Action	4	66	Rare	STRENGTH MODIFIER: +5	
+Phoenix	03Phoenix	p67	Intercept Action	4	67	Rare	STRENGTH: 6 INTERCEPTOR Attacker must kill Phoenix before reaching intended target.  Phoenix counts as dragon in attacked row.  Discard Phoenix after battle.	
+Puk	03Phoenix	p68	Reaction	0	68	Common	Counters any attempt to destroy or remove a treasure from your battlefield.  When used against a Pick a Treasure attempt the Pick a Treasure is discarded.	Puk is a Baltic Dragon who brings Treasures to the household he is protecting.
+Roc	03Phoenix	p69	Battle Action	0	69	Uncommon	The dragon that wins this battle loses one strength for each gold piece you pay to the gold mine.	Roc is an Arabian storm bird who feeds elephants to his young.
+Seahorse	03Phoenix	p70	Intercept Action	2	70	Uncommon	STRENGTH: 4 INTERCEPTOR Attacker must kill Seahorse before reaching intended target.  Seahorse counts as dragon in attacked row.  Discard Seahorse after battle.	
+Tengu	03Phoenix	p71	Battle Action	0	71	Common	If battle ends in a tie, both dragons are killed.  There is no winner or loser.	Tengu is a Japanese Monster demon man-bird.
+Golden Dragon	03Phoenix	p72	Dragon	2	72	Common	STRENGTH: 2 When Golden Dragon wins a battle, you get gold equal to the base strength of the dragon(s) defeated.	The Golden Dragon is the Chinese Dragon King.
+Violet	03Phoenix	p73	Dragon	1	73	Common	STRENGTH: 2 FLYING Dragons with a base strength of 4 or more lose 2 strength for the rest of a battle in which Violet participates.	Violet is the Japanese Dragon whose spittle becomes pure crystal.
+Tatsu	03Phoenix	p74	Dragon	1	74	Common	STRENGTH: 0 SCOUT When Tatsu loses a battle you can put a -1 strength counter on any face up dragon.	In Japanese myth, Tatsu is the sign in the Zodiac we know as Leo.
+Sui-Riu	03Phoenix	p75	Dragon	1	75	Common	STRENGTH: 1 When Sui-Riu loses a battle, you can put a -1 strength counter on any face up dragon.	Sui-Rui is the Japanese rain Dragon.
+Han-Riu	03Phoenix	p76	Dragon	1	76	Common	STRENGTH: 2 Night cannot be played in a battle in which Han-Riu is participating.	Han-Riu is a 40 foot long Dragon who can never reach heaven.
+Ka-Riu	03Phoenix	p77	Dragon	1	77	Common	STRENGTH: 3 Dragons with base strength of 4 or more lose 2 strength for the rest of the battle in which Ka-Riu participates.	
+Ri-Riu	03Phoenix	p78	Dragon	1	78	Common	STRENGTH: 0 SCOUT SUPER FLYER Ri-Riu can attack any card.	Ri-Riu can see more than a mile.
+Nergal	03Phoenix	p79	Dragon	1	79	Common	STRENGTH: 2 When Nergal wins a battle, you can put a +1 strength counter on any face up dragon.	Nergal is a Babylonian Dragon.
+Heavenly Naga	03Phoenix	p80	Dragon	1	80	Common	STRENGTH: 4 When Heavenly Naga is face up, no treasure in this row can be removed by opponent.	Heavenly Naga is the Indian Dragon who guards the Heavenly Palace.
+Divine Naga	03Phoenix	p81	Dragon	1	81	Common	STRENGTH: 2 Flying dragons lose 2 strength for the rest of the battle in which Divine Naga participates.	Divine Naga is an Indian Dragon that creates clouds and rain.
+Earthly Naga	03Phoenix	p82	Dragon	2	82	Uncommon	STRENGTH: 0 Earthly Naga gains +1 strength for each terrain card on him.  Ignore all other effects of terrain card except gold symbols.	Earthly Naga is the Indian Dragon that clears out rivers.
+Hidden Naga	03Phoenix	p83	Dragon	1	83	Common	STRENGTH: 2 When Hidden Naga is face up, no treasure in this row can be removed by opponent.	Hidden Naga is an Indian Dragon that guards treasure.
+Piasa	03Phoenix	p84	Dragon	1	84	Common	STRENGTH: 1 FLYING Night cannot be played in a battle in which Piasa is participating.	Piasa is a North American Dragon worshipped by Indians.  Piasa means man-eating bird.
+O-Gon-Cho	03Phoenix	p85	Dragon	3	85	Uncommon	STRENGTH: 0 FLYING When defending, O-Gon-Cho's strength is the number of cards in opponent's hand at the start of the battle phase.	O-Gon-Cho is a Japanese Dragon that lies in a deep pond and flies as a golden feathered bird every 50 years.
+Ethiopian Dream	03Phoenix	p86	Dragon	1	86	Common	STRENGTH: 2 FLYING When Ethiopian Dream loses a battle, you can put a -1 strength counter on any face up dragon.	Ethiopian Dream is an African Dragon.
+Dragon of Knucker Hole	03Phoenix	p87	Dragon	3	87	Uncommon	STRENGTH: 0 When attacking, Dragon of Knucker Hole's strength is the number of cards you have in your hand at the start of the battle phase.	Dragon of Knucker Hole is an English Dragon killed by a Knight who won the hand of the King's daughter for his deed.
+Dragon of Exe Valley	03Phoenix	p88	Dragon	2	88	Uncommon	STRENGTH: 1 FLYING When attacking, Dragon of Exe Valley's strength is the number of treasures in play on both sides.	This is an English Dragon who flies across Exe Valley every night to guard Treasure Hordes at Cadbury Castle and Dolbury Hill.
+White-Eared Dragon	03Phoenix	p89	Dragon	1	89	Common	STRENGTH: 4 When White-Eared Dragon wins a battle, you may turn any face up dragon face down.	White-Eared Dragon is a Hindu Dragon from Valley of Indus.
+Green Dragon	03Phoenix	p90	Dragon	1	90	Common	STRENGTH: 1 When Green Dragon loses a battle winning dragon loses any special abilities for the rest of the game.	Green Dragon is a Chinesse Dragon in Feng-shui myth.
+Fu-Tsang-Lung	04Chameleon	c01	Dragon	2	1	Uncommon-1	STRENGTH: 4 In the Discard Phase of each players' turn, all face up Dragons with a Current Strength below zero are killed and not replaced.	Wounded dragons are his favorite prey.
+Ai-Wa	04Chameleon	c02	Dragon	1	2	Common-2	STRENGTH: 3 SUBTERRANEAN Non-Subterranean Dragons get a -2 strength modifer while in battle with Ai-Wa.	
+Mucilinda	04Chameleon	c03	Dragon	2	3	Uncommon-2	STRENGTH: 4 Immune to Dragon Slayers.  While Mucilinda is face up, all of your Nagas get +1 strength.  Action: Turn any Naga face down.	
+Chao-Fung	04Chameleon	c04	Dragon	1	4	Common-2	STRENGTH: 3 FLYING Gain one gold piece from the Gold Mine for each card played by an opponent during your Action Phases.	
+Dragonfly	04Chameleon	c05	Dragon	0	5	Common-2	STRENGTH: 0 FLYING SCOUT When Dragonfly attacks a face down card, guess whether it's a Dragon or Terrain.  If you are right, gain two gold pieces; if wrong, lose two gold pieces.	
+Mixcoatl	04Chameleon	c06	Dragon	6	6	Uncommon-2	STRENGTH: 0 FLYING While attacking, Mixcoatl uses an assigned strength equal to the number of gold pieces in your gold pile at the moment he attacks.	
+Fire Drake	04Chameleon	c07	Dragon	2	7	Uncommon-4	STRENGTH: 4 While defending, Fire Drake gets +1 strength for each Treasure in play (including against Dragon Slayers).	
+Chi-Wen	04Chameleon	c08	Dragon	2	8	Uncommon-3	STRENGTH: 0 SCOUT Place a +1 strength counter on Chi-Wen each time Chi-Wen attacks and eliminates a Terrain card.	
+Ti-Lung	04Chameleon	c09	Dragon	1	9	Common-2	STRENGTH: 3 SUBTERRANEAN Gain one gold piece each time an opponent exchanges one of their Battle Positions in lieu of attacking.	
+Dragon of Nunnington	04Chameleon	c10	Dragon	1	10	Uncommon-4	STRENGTH: 4 FLYING Reaction: Pay two gold pieces to counter any Dragon Slayer Action aimed at Dragon of Nunnington or any target one card away (including diagonally).	
+Hege	04Chameleon	c11	Dragon	2	11	Uncommon-3	STRENGTH: 2 FLYING Action or Battle Action: Once on each player's turn Hege may use any Treasure in play as if it were in this row.	
+Dragon of Wells	04Chameleon	c12	Dragon	1	12	Uncommon-3	STRENGTH: 1 Action: Pay one gold piece to give a +1 strength counter to any other face up Dragon.  This Action may be used once on each of your turns.	
+Dragon of Deerhurst	04Chameleon	c13	Dragon	1	13	Uncommon-4	STRENGTH: 3 Action or Battle Action: Pay one gold piece to remove all negative strength modifiers from Dragon of Deerhurst.	
+Megalith	04Chameleon	c14	Dragon	2	14	Uncommon-2	STRENGTH: 3 Native Terrain: Ruins.  When Megalith is killed in a battle, one opposing Dragon must be turned face down.  It must be paid for again when it is turned face up.	
+Oceanus	04Chameleon	c15	Dragon	2	15	Uncommon-2	STRENGTH: 1 Native Terrain: Ocean.  Battle Action: Discard a Seaweed card from your hand; Oceanus survives this battle.	
+Sea Goat	04Chameleon	c16	Dragon	1	16	Uncommon-4	STRENGTH: 4 Gain two gold pieces from the Gold Mine each time an opponent plays a Reaction card.	
+Drachenfels	04Chameleon	c17	Dragon	2	17	Uncommon-3	STRENGTH: 4 FLYING Native Terrain: Mountain.  Battle Action: Pay one gold piece; opposing Dragon gets a -1 strength counter.  This may be done once per battle.	
+Helix	04Chameleon	c18	Dragon	2	18	Uncommon-3	STRENGTH: 1 Native Terrain: Vines.  Action: Pay one gold; no Battle Action Cards may be played this turn.	
+Ripplet	04Chameleon	c19	Dragon	2	19	Uncommon-3	STRENGTH: 3 Native Terrain: Stream.  When Ripplet loses a battle opponent must pay you two gold.  If opponent cannot pay they must discard a card from  their hand at random.	
+Lacustrian	04Chameleon	c20	Dragon	2	20	Uncommon-4	STRENGTH: 2 Native Terrain: Lake x2	
+Teuton	04Chameleon	c21	Dragon	2	21	Uncommon-4	STRENGTH: 1 Native Terrain: Forest	
+Kalahari	04Chameleon	c22	Dragon	2	22	Uncommon-2	STRENGTH: 4 Native Terrain: Desert.  Heatwaves have no effect on Kalahari.  Each Heatwave in your discard pile counts as if it were a Desert Terrain.	
+Riparian	04Chameleon	c23	Dragon	2	23	Uncommon-2	STRENGTH: 3 FLYING Native Terrain: River.  Action: Pay one gold piece to look at opponent's hand; opponent must discard all Dwarven Armies.	
+Miasma	04Chameleon	c24	Dragon	2	24	Uncommon-4	STRENGTH: 0 Native Terrain: Swamp x2	
+Bellerophon	04Chameleon	c25	Dragon Slayer Action	2	25	Common-3	Bellerophon kills any Dragon with the Native Terrain special ability, or allows you to remove from the game up to three cards from your opponent's discard piles.	
+Argonauts	04Chameleon	c26	Dragon Slayer Action	4	26	Common-2	The Argonauts kill every face up Dragon whose current strength is less than zero.	
+Rustem	04Chameleon	c27	Dragon Slayer Action	0	27	Common-3	Opponent must discard an Intercept Action from their hand.  If they have no Intercept Actions you still must skip your Battle Phase.	
+Reclaimed Treasure	04Chameleon	c28	Action	2	28	Common-3	Return any Treasure card from your Treasure Horde Discard Pile to your hand.	
+Sanctuary	04Chameleon	c29	Action	2	29	Common-3	Target face up Dragon can't be attacked by a Dragon unless your opponent pays three gold pieces to the Gold Mine.  In each of your Draw Phases, pay two gold pieces to the Gold Mine or discard Sanctuary from target Dragon.	
+All or Nothing	04Chameleon	c30	Action	0	30	Uncommon-3	Roll a six-sided die.  On a result of 1 through 5, you gain gold equal to double the number rolled.  On a result of 6, you lose all of your positions and the game.  Score the game normally.	
+Torrential Rains	04Chameleon	c31	Action	2	31	Common-3	You may rearrange all the cards in an opponent's battlefield; no cards may be turned face up or face down, and attached cards may not change targets.  You may not look at face down cards.	
+Lost City	04Chameleon	c32	Action	0	32	Common-3	Opponent may not look at any face down cards in their battlefield during the remainder of this turn and the next.	
+Golem	04Chameleon	c33	Action	4	33	Uncommon-2	Replace any Dragon or face down Terrain in your battlefield with the Golem, which instantly becomes a duplicate of any face up Dragon in play for the rest of the  game.  If original Dragon leaves play, Golem is discarded and not replace.	
+Grave Diggers	04Chameleon	c34	Action	2	34	Common-3	Return any Dragon Slayer card from your Treasure Horde Discard Pile to your hand.	
+Stolen Equipment	04Chameleon	c35	Action	1	35	Common-2	Each player selects and discards one card from their hand for each face up Dragon in their battlefield.	
+Freya	04Chameleon	c36	Action	0	36	Common-3	Immediately exchange any Dragon or face down Terrain in your battlefield with the top card of your Dragon Lair Draw Pile.	
+Treasure Find	04Chameleon	c37	Action	3	37	Uncommon-3	Search your Treasure Horde Draw Pile for any Treasure and put it directly into play, paying for it normally.	
+Gold Dig	04Chameleon	c38	Action	0	38	Common-2	You gain X gold pieces; X equals the number of gold symbols on the top card in your Dragon Lair Discard Pile.	
+Brain Drain	04Chameleon	c39	Action	2	39	Common-3	Target Dragon loses all special abilities while Brain Drain is on it.  Discard Brain Drain if target Dragon is turned face down.	
+Windfall	04Chameleon	c40	Action	0	40	Common-3	Each player gains one gold piece from the Gold Mine for each face up Dragon in his or her battlefield when Windfall is played.	
+Shifting Sands	04Chameleon	c41	Action	1	41	Common-2	You may rearrange all the cards in your battlefield.  No cards may be t urned face up or face down and attached cards may not change targets.	
+Treasure Fire	04Chameleon	c42	Action	3	42	Common-3	All of your opponents' Treasures that are in play when you play Treasure Fire are immediately discarded.	
+Thunderbolt	04Chameleon	c43	Action	2	43	Common-3	For each gold you pay in addition to the cost of Thunderbolt, put a -1 strength counter on any one face up Dragon.	
+Black Rainbow	04Chameleon	c44	Action	2	44	Common-2	Turn all of your own face up Dragons face down.	
+Rainbow	04Chameleon	c45	Action	0	45	Common-3	Turn as many of your Dragons as you wish face up (paying for them, if required).  Gain one gold piece from the Gold Mine for each Dragon turned face up by this Action.	
+Scorpion Men	04Chameleon	c46	Battle Action	1	46	Common-2	The player who wins this battle must discard the top two cards from his or her Dragon Lair Draw Pile.	
+Alberich	04Chameleon	c47	Battle Action	1	47	Uncommon-4	STRENGTH MODIFIER: +1 The winner of this battle gains one additional Treasure Position in this row.  Use Alberich to mark the new position.  Alberich counts as a Dwarven Army.	
+Horn of the Unicorn	04Chameleon	c48	Battle Action	1	48	Common-3	You may discard any Dragon in your Battlefield instead of the Dragon that loses this battle.  You may not discard a Dragon that was involved in the Battle.  Discarded Dragon need not have been paid for.	
+Mental Domination	04Chameleon	c49	Battle Action	2	49	Uncommon-4	You can force any face up Dragon of two or less base strength to Help on either side of this battle.  Target Dragon can't already be in the battle.	
+Spectral Shift	04Chameleon	c50	Battle Action	0	50	Common-2	Exchange one of your Dragons in this battle with the top card of your Dragon Lair Draw Pile.  If you draw a Terrain, discard it and draw again.  If it is a Dragon you must pay for it normally.	
+Flag of Truce	04Chameleon	c51	Battle Action	0	51	Common-3	Pay two gold pieces to your opponent; all of your Dragons survive this battle.	
+Deep Freeze	04Chameleon	c52	Battle Action	3	52	Uncommon-3	At the end of the battle, the winning Dragon's base strength becomes zero (and remains zero) as long as Deep Freeze is on it.  Dragon's owner may discard three cards from their hand (as an Action) to remove Deep Freeze.	
+Royal Archers	04Chameleon	c53	Battle Action	1	53	Common-3	STRENGTH MODIFIER: +2 Playable only by the defending player, not on a flying or subterranean Dragon.  If target Dragon survives this battle, put a +1 or -1 strength counter on any face up Dragon.	
+Possession From Beyond	04Chameleon	c54	Battle Action	1	54	Common-2	Add the base strength of any Dragon that is the top card of any Dragon Lair Discard Pile to your side in this battle.  The possessed Dragon's base strength becomes zero for the rest of this battle.	
+Nibelungs	04Chameleon	c55	Battle Action	1	55	Common-3	STRENGTH MODIFIER: +1 The player that wins this battle may draw two additional cards in his or her next Draw Phase.  The Nibelungs counts as a Dwarven Army.	
+Tower of Babel	04Chameleon	c56	Battle Action	0	56	Common-3	Each Dragon helping in this battle counts as a -2 strength modifier for its side, instead of adding its strength to the battle.	
+Dwarven Legion	04Chameleon	c57	Battle Action	3	57	Uncommon-3	STRENGTH MODIFIER: +2 The player that wins this battle gains gold each to the strength difference between the two sides at the end of the battle.  Dwarven Legion counts as a Dwarven Army.	
+Thor's Hammer	04Chameleon	c58	Battle Action	2	58	Common-2	Target Dragon's Base Strength is doubled for the rest of this battle.  No more than one Thor's Hammer may be played on each Dragon.	
+Last Will and Testament	04Chameleon	c59	Battle Action	2	59	Common-3	If target Dragon is killed in this battle its owner gains gold equal to the target Dragon's base strength plus gold symbols.	
+Lucky Strike	04Chameleon	c60	Battle Action	0	60	Common-3	Whoever is behind in this battle when Lucky Strike is played gains one gold piece from the Gold Mine.	
+Sorcerer	04Chameleon	c61	Reaction	2	61	Uncommon-1	The Sorcerer duplicates any Action or Reaction card just played by your opponent.  The Sorcerer is also playable as a Battle Reaction to duplicate any Battle Action just played by your opponent.	
+Field of Gold	04Chameleon	c62	Terrain	4	62	Common-3	STRENGTH MODIFIER: +1	
+Arctic Winds	04Chameleon	c63	Terrain	2	63	Common-2	Dragon with Arctic Winds on it may not move during its owner's Movement Phase.	
+Poison Forest	04Chameleon	c64	Terrain	0	64	Common-3	STRENGTH MODIFIER: -3	
+Swamp of Lernea	04Chameleon	c65	Terrain	1	65	Common-2	A Dragon in the Swamp of Lernea may be killed by any Dragon Slayer, regardless of what the Dragon Slayer card says.	
+Overgrown Monument	04Chameleon	c66	Terrain	0	66	Uncommon-3	Draw a card from your Treasure Horde if Overgrown Monument applies to the Dragon that discovers it.  Counts as both Ruins and Vines for Native Terrain Dragons.	
+Waterfall	04Chameleon	c67	Terrain	0	67	Uncommon-3	STRENGTH MODIFIER: -1 Counts as both a Stream and a Mountain for Native Terrain Dragons.	
+Oasis	04Chameleon	c68	Terrain	1	68	Uncommon-3	Counts as both a Desert and a Lake for Native Terrain Dragons.	
+Delta	04Chameleon	c69	Terrain	0	69	Uncommon-3	If Delta applies to the Dragon that discovers it the Dragon's owner must discard a card at random from their hand.  Counts as both a River and an Ocean for Native Terrain Dragons.	
+Chaparral	04Chameleon	c70	Terrain	0	70	Uncommon-1	STRENGTH MODIFIER: -1 Chameleon Reaction: Pay three gold pieces to change Chaparral to a Strength 0 Dragon for the rest of the game.  While attacking, Chaparral has an Assigned Strength equal to the number of Terrain cards in your Discard Pile.	
+Bracken	04Chameleon	c71	Terrain	0	71	Uncommon-3	STRENGTH MODIFIER: -1 Chameleon Reaction: Pay one gold piece to change Bracken to a Strength 0 Subterranean Scout for the rest of the game.	
+Shoal	04Chameleon	c72	Terrain	0	72	Uncommon-3	STRENGTH MODIFIER: -1 Chameleon Reaction: Pay five gold pieces to change Shoal to a Strength 4 Subterranean Dragon for the rest of the game.	
+Grotto	04Chameleon	c73	Terrain	0	73	Uncommon-3	STRENGTH MODIFIER: -1 Chameleon Reaction: Pay four gold pieces to change Grotto to a Strength 3 Subterranean Dragon for the rest of the game.	
+Crag	04Chameleon	c74	Terrain	0	74	Uncommon-3	STRENGTH MODIFIER: -1 Chameleon Reaction: Pay three gold pieces to change Crag to a Strength 2 Subterranean Dragon for the rest of the game.	
+Nebula	04Chameleon	c75	Terrain	0	75	Uncommon-3	STRENGTH MODIFIER: -1 Chameleon Reaction: Pay two gold pieces to change Nebula to a Strength 1 Flying Dragon for the rest of the game.	
+Gold Market	04Chameleon	c76	Treasure	0	76	Common-3	When you play the Gold Market, put two of your gold pieces on it.  In each of your Draw Phase place one gold piece from the Gold Mine on it.  Action: Discard Gold Market and put all t he gold on it into your gold pile.	
+Gold Vault	04Chameleon	c77	Treasure	0	77	Common-2	Action: Transfer any number of gold pieces between your Gold Pile and the Gold Vault.  Gold in the Vault may not be spent for any reason and may not be lost or stolen.  If the Vault changes owners or leaves play, all gold in the Vault goes with it.	
+Master Ring	04Chameleon	c78	Treasure	1	78	Uncommon-2	If the Master Ring is in the same row with a Dwarven Gold Mine, the Dwarven Gold Mine now provides unlimited Treasure positions in its row.  If Master Ring is removed or stolen all excess Treasures are discarded.	
+Ring of Power	04Chameleon	c79	Treasure	2	79	Uncommon-1	All of your Dwarven Army Battle Actions gain +1 Strength and can't be cancelled or countered.	The ring Draupnir, crafted by the Nibelungs, was worn by Odin.
+Ring of Destiny	04Chameleon	c80	Treasure	2	80	Uncommon-2	Action: In opponent's first Action Phase, you decide which opposing face up Dragon attacks and which of your cards will be attacked.  Opponent then places Ring of Destiny in one of their Treasure positions.  Discard Ring after its second use.	
+Heavyweight Alliance	04Chameleon	c81	Treasure	2	81	Common-2	Battle Action: All of your Dragons of four or more base strength may Help each other.	
+Rebate	04Chameleon	c82	Treasure	1	82	Common-3	Whenever any card played is countered, the gold paid to play it is refunded.	
+Precious Gems	04Chameleon	c83	Treasure	3	83	Common-2	Each Dragon in this row gains +2 strength while defending (including against Dragon Slayers).	
+Cracked Cauldron	04Chameleon	c84	Treasure	1	84	Common-3	Action: Turn one Dragon in this row face up (paying for it, if required).  This Action may be used once on each of your turns.	
+Enchanted Mirror	04Chameleon	c85	Treasure	1	85	Common-2	If your opponent plays a card that allows them to get a card back from a discard pile, or allows them to draw additional cards from their Treasure Horde, you may perform the same action for free.  This does not include cards that affect all players.	
+Spoils of War	04Chameleon	c86	Treasure	1	86	Common-3	Each time an opponent loses a Battle position, draw one card from your Treasure Horde Draw Pile.	
+Serpent Lance	04Chameleon	c87	Treasure	2	87	Uncommon-3	Action: Place a -1 strength counter on any face up Dragon, then flip a Wyvern Gold Coin.  Heads: Place another -1 counter on the target Dragon.  Tails: Discard Serpent Lance.  You may continue flipping until tails results.	
+Runic Tablet	04Chameleon	c88	Treasure	2	88	Common-2	Action: The next game activity you perform that requires payment is free.  Runic Tablet is then given to your opponent who places it in any open Treasure position.  Runic Tablet gets discarded after its second use.	
+Hidden Gold	04Chameleon	c89	Treasure	0	89	Common-3	On each of your Draw Phases that you begin with no gold in your gold pile, gain one gold piece from the Gold Mine.	
+Flying Boulder	04Chameleon	c90	Treasure	2	90	Uncommon-3	Action: Discard Flying Boulder and place three -1 strength counters on any one face up Dragon.	
