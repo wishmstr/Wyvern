@@ -84,7 +84,7 @@
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
-<prevtilt>35.000000</prevtilt>
+<prevtilt>0.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
 
 </pluginpreferences>
