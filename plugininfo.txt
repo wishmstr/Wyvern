@@ -1,6 +1,6 @@
 <plugin>
 
-<playerstat><label>Gold</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Gold</label><initialvalue>25</initialvalue></playerstat>
 
 <deckzone>
      <label>Treasure Horde</label>
