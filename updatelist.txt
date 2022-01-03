@@ -3,7 +3,7 @@ plugins/Wyvern/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/Wyvern/
 plugins/Wyvern/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/Wyvern/main/sets/carddata.txt	6901889
 plugins/Wyvern/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/Wyvern/main/sets/setimages/general/cardback.jpg	34907
 plugins/Wyvern/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/Wyvern/main/sets/setimages/general/spawned.jpg	69816
-plugins/Wyvern/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/Wyvern/main/CardImageURLs.txt	4413464
+plugins/Wyvern/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/Wyvern/main/CardImageURLs1.txt	4413464
 plugins/Wyvern/WyvernCCG-Rules.pdf	https://raw.githubusercontent.com/wishmstr/Wyvern/main/WyvernCCG-Rules.pdf	62008161
 plugins/Wyvern/decks/1995_World_Champ_Deck.dek	https://raw.githubusercontent.com/wishmstr/Wyvern/main/decks/1995_World_Champ_Deck.dek	461183
 plugins/Wyvern/decks/Theme_Deck_Help.dek	https://raw.githubusercontent.com/wishmstr/Wyvern/main/decks/Theme_Deck_Help.dek	415931
